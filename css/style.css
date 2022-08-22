@@ -14,10 +14,6 @@
     z-index: 2;
 }
 
-/* .logo {
-    columns: ;
-} */
-
 .main {
     margin-top: 100px;
 }
@@ -38,14 +34,34 @@ hr {
     border: 2px solid rgb(247, 239, 241);
 }
 
-body{
+.card-footer{
+    text-align: center;
+}
+
+
+#mid-section-cards{
+    height: 350px;
+
+}
+
+#mid-section-cards img{
+    width: auto;
+    height: 300px;
+
+}
+
+
+body {
     background-color: rgb(48, 44, 45);
 }
 
 .footer-bar {
     width: 100%;
-    /* margin-left: 95px; */
     color: whitesmoke;
+}
+
+.footer-bar p{
+    text-align: center;
 }
 
 
