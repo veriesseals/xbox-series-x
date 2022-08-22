@@ -1,0 +1,52 @@
+/* * {
+    outline: 1px dotted red;
+} */
+
+.header {
+    position: fixed;
+    max-height: 110px;
+    top: 0;
+    left: 0;
+    padding: 20px 0;
+    margin-bottom: 150px;
+    width: 100%;
+    background-color: rgb(62, 61, 61);
+    z-index: 2;
+}
+
+/* .logo {
+    columns: ;
+} */
+
+.main {
+    margin-top: 100px;
+}
+
+.section {
+    padding:50px 0;
+}
+
+header h1 {
+    color: whitesmoke;
+}
+
+.carousel-image{
+    max-height: 600px;
+}
+
+hr {
+    border: 2px solid rgb(247, 239, 241);
+}
+
+body{
+    background-color: rgb(48, 44, 45);
+}
+
+.footer-bar {
+    width: 100%;
+    /* margin-left: 95px; */
+    color: whitesmoke;
+}
+
+
+
