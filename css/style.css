@@ -4,7 +4,7 @@
 
 .header {
     position: fixed;
-    max-height: 110px;
+    /* max-height: 110px; */
     top: 0;
     left: 0;
     padding: 20px 0;
