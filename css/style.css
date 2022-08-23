@@ -40,7 +40,7 @@ hr {
 
 
 #mid-section-cards{
-    height: 400px;
+    height: 350px;
 
 }
 
@@ -53,11 +53,12 @@ hr {
 /* -------------------------------------- */
 /* Break Points for Text Sizes */
 
-/* @media (min-width: 620px) {
-    .card-h2 {
-        text-size-adjust: 28px;
+@media screen and (min-width: 320px) {
+    .card-h4, .card-body, ul {
+      font-size: calc(11px + 6 * ((100vw - 320px) / 680));
+      text-align: center;
     }
-} */
+  }
 
 body {
     background-color: rgb(48, 44, 45);
