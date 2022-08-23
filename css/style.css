@@ -46,10 +46,18 @@ hr {
 
 #mid-section-cards img{
     width: auto;
-    height: 300px;
+    height: 200px;
 
 }
 
+/* -------------------------------------- */
+/* Break Points for Text Sizes */
+
+/* @media (min-width: 620px) {
+    .card-h2 {
+        text-size-adjust: 28px;
+    }
+} */
 
 body {
     background-color: rgb(48, 44, 45);
